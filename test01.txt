@@ -1,0 +1,4 @@
+2022년 4월 14일 
+- 수업 내용
+  - Github Desktop 설치해 봤음.
+  - Git clone, add, commit 등의 내용을 공부했음.
